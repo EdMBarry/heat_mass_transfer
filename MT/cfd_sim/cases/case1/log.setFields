@@ -1,0 +1,38 @@
+/*---------------------------------------------------------------------------*\
+| =========                 |                                                 |
+| \\      /  F ield         | OpenFOAM: The Open Source CFD Toolbox           |
+|  \\    /   O peration     | Version:  dev                                   |
+|   \\  /    A nd           | Web:      www.OpenFOAM.org                      |
+|    \\/     M anipulation  |                                                 |
+\*---------------------------------------------------------------------------*/
+Build  : dev-bfe787b4fc80
+Exec   : setFields
+Date   : Apr 27 2018
+Time   : 16:53:23
+Host   : "gh648-1384"
+PID    : 18951
+I/O    : uncollated
+Case   : /home/workbox/Public/heat_mass_transfer/MT/cfd_sim/cases/case1
+nProcs : 1
+sigFpe : Enabling floating point exception trapping (FOAM_SIGFPE).
+fileModificationChecking : Monitoring run-time modified files using timeStampMaster (fileModificationSkew 10)
+allowSystemOperations : Allowing user-supplied system call operations
+
+// * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * //
+Create time
+
+Create mesh for time = 0
+
+Reading setFieldsDict
+
+Setting field default values
+    Setting internal values of volScalarField A
+    Setting internal values of volScalarField B
+
+Setting field region values
+    Adding cells with center within boxes 1((0 0 0.45) (0.1 0.1 0.55))
+    Setting internal values of volScalarField A
+    Setting internal values of volScalarField B
+
+End
+

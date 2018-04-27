@@ -1,0 +1,3 @@
+diffusiveFluxFoam.C
+
+EXE = $(FOAM_APPBIN)/diffusiveFluxFoam
