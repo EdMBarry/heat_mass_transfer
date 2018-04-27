@@ -1,2 +1,5 @@
 */.ipynb-check*
-*/MT/cfd-sim/cases/case*/[1-9]*
+*/MT/cfd_sim/cases/case*/[1-9]*
+*/MT/cfd_sim/src/diffusi*/Make/*
+*/MT/cfd_sim/src/diff*/.piumpleFo*
+*/MT/cfd_sim/cases/case*/log*
